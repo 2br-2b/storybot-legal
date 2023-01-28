@@ -8,3 +8,4 @@ My TOS need to include:
   - Probably just "you're responsible for what you say" - Section 230
 - I don't have to serve you, I can ban you or refuse you service if I want to (though I probably won't except for in dire circumstances)
 - I'm not responsible for any damage, injury, costs, etc.
+- I need the right to reproduce your story content for as long as you let me. If you tell me to delete something, I will delete it. It may last a bit longer in my backups, but it'll be deleted somewhat soon after
