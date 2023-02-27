@@ -1,3 +1,5 @@
+# Notice: these terms are still a draft and are not legally binding!
+
 Note: these terms of service are based on [Automattic's Terms of Service](https://wordpress.com/tos/), as accessed on 2/27/2022. As with their terms of service, this document is released under CC BY-SA 4.0
 
 Last updated: 2/27/2023
