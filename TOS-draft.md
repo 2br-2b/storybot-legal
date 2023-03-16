@@ -71,17 +71,15 @@ Our Services are designed to give you control and ownership over the stories you
 
 ## 8. Specific Service Terms
 
-### a. Storybot
-
 StoryBot enables you to create fun stories, and we would love for you to use it.
 
-StoryBot's basic service is free, and we offer paid plans that add advanced features. **We don’t own your content, and you retain all ownership rights you have in the content you post to your website.** However, be responsible in what you publish. In particular, make sure that nothing prohibited (like spam, viruses, or serious threats of violence) appears on your website.
+StoryBot's basic service is free, and we offer paid plans that add advanced features. **We don’t own your content, and you retain all ownership rights you have in the content you post or write on Discord.** However, be responsible in what you publish. In particular, make sure that nothing prohibited (like spam, viruses, or serious threats of violence) appears in your stories.
 
-If you find a story that you believe violates these Terms, please join our support server and let us know.
+If you find a story that you believe violates these Terms, please join our support server and let us know. If there is reasonable suspicion of misuse, we may look at the story there and take appropriate action (as determined by us in our sole discretion). See [our privacy policy](https://github.com/2br-2b/storybot-legal/releases/latest) for more details.
 
 **License.** By uploading or sharing Content, you grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, store, and use the Content solely for the purpose of providing and improving our products and Services.
 
-**Removing Content.** If you delete Content, we’ll use reasonable efforts to delete it, but you acknowledge that backed-up versions of the Content or references to the Content may still be stored
+**Removing Content.** If you delete Content, we’ll use reasonable efforts to delete it, but you acknowledge that backed-up versions of the Content or references to the Content may still be stored. These will be deleted when they are no longer needed. If you want us to delete your data from backups too, join our support server and notify us.
 
 **Prohibited Uses.** Your and your story must comply with [Discord's Terms of Service](https://discord.com/terms).
 
@@ -119,7 +117,7 @@ In no event will StoryBot, or its suppliers, partners, or licensors, be liable (
 
 ## 16. Indemnification
 
-You agree to indemnify and hold harmless StoryBot, its contractors, and its licensors, and their respective directors, officers, employees, and agents from and against any and all losses, liabilities, demands, damages, costs, claims, and expenses, including attorneys’ fees, arising out of or related to your use of our Services, including but not limited to your violation of the Agreement or any agreement with a provider of third-party services used in connection with the Services, Content that you post, and any ecommerce activities conducted through your or another user’s website.
+You agree to indemnify and hold harmless StoryBot, its contractors, and its licensors, and their respective directors, officers, employees, and agents from and against any and all losses, liabilities, demands, damages, costs, claims, and expenses, including attorneys’ fees, arising out of or related to your use of our Services, including but not limited to your violation of the Agreement or any agreement with a provider of third-party services used in connection with the Services, Content that you post, and any ecommerce activities conducted through your or another user’s server.
 
 ## 17. US Economic Sanctions
 
