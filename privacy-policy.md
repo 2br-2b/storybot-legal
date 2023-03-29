@@ -33,7 +33,7 @@ Except to the extent I am required to retain API Data under applicable laws or r
   
 If a user asks me to delete information stored on them, I will do so as promptly as possible. Such requests can be made by messaging me via Discord. See my bot support server to contact me.
 
-**I will not train any AI models on users' submitted stories without their express, opt-in consent**. I do not have any plans to do anything of this sort, but I'm leaving this in here just in case.
+**I will not train any text generation AI models on users' submitted stories without their express, opt-in consent**. I do not have any plans to do anything of this sort, but I'm leaving this in here just in case.
 
 If you have any questions, you can join [my Discord](https://discord.gg/a28VUkyrxp) and I will be happy to answer any questions you have.
 
