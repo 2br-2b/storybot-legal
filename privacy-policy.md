@@ -23,7 +23,8 @@ I use this data to:
 1. make the bot function;
 2. prevent spam;
 3. ensure that my bot is functioning properly;
-4. improve the bot (for example, by seeing if certain actions are going unused and can thus be deprioritized).
+4. improve the bot (for example, by seeing if certain actions are going unused and can thus be deprioritized);
+5. If a user reports that there is some serious harm being done by the bot (being used to write viruses, commit phishing attacks, etc.), then I will investigate,
 
 In order to see all of the data the bot has stored on you, you can run `/privacy request_my_data`.
 
