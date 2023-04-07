@@ -11,9 +11,8 @@ Here is the data my bot stores about each server:
 - Guild ID (the bot does not store server names);
 - The story being written in that server, along with any previous archived stories;
 - Server configuration (modified by having an admin run `/config`);
-- The status of the current story (when it was last updated, the current user, etc.);
+- The status of the server and the current story (when it was last updated, the current user, etc.);
 - Whether the server has a subscription and if so, which user has purchased the subscription;
-- The server's status (running, etc.);
 - Actions taken in the server, along with some metadata (such as what action, which server, timestamp, etc);
 - If the bot sends a message with a button, it stores the message id along with the server. It does not store the id of the user;
 - Users and their statuses (see above).
