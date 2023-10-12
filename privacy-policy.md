@@ -1,4 +1,6 @@
-Here is the data my bot stores about users:
+**I will not train any text generation AI models on users' submitted stories without their express, opt-in consent**. I do not have any plans to do anything of this sort, but I'm leaving this in here to clarify my position on the issue.
+
+Here is an example of some of the data my bot stores about users:
 - User ID (the bot does not store usernames or discriminators);
 - Servers they're registered as authors in;
 - Their status in each server (active, paused, your turn, etc.);
@@ -7,7 +9,7 @@ Here is the data my bot stores about users:
 - The actions each user runs for the bot, along with some metadata (such as what action, which server, timestamp, etc);
 - If a user has a premium subscription, which server they are applying this to.
 
-Here is the data my bot stores about each server:
+Here is an example of some of the data my bot stores about each server:
 - Guild ID (the bot does not store server names);
 - The story being written in that server, along with any previous archived stories;
 - Server configuration (modified by having an admin run `/config`);
@@ -24,7 +26,7 @@ I use this data to:
 2. prevent spam;
 3. ensure that my bot is functioning properly;
 4. improve the bot (for example, by seeing if certain actions are going unused and can thus be deprioritized);
-5. If a user reports that there is some serious harm being done by the bot (being used to write viruses, commit phishing attacks, etc.), then I will investigate,
+5. If a user reports that there is some serious harm being done by the bot (being used to write viruses, commit phishing attacks, etc.), then I will investigate.
 
 In order to see all of the data the bot has stored on you, you can run `/privacy request_my_data`.
 
@@ -51,8 +53,6 @@ Except to the extent I am required to retain API Data under applicable laws or r
   c. Discord requests I delete it;
   d. the applicable user requests I delete it; or
   e. required by applicable laws or regulations.
-
-**I will not train any text generation AI models on users' submitted stories without their express, opt-in consent**. I do not have any plans to do anything of this sort, but I'm leaving this in here to clarify my position on the issue.
 
 If you have any questions, you can join [my Discord](https://discord.gg/a28VUkyrxp) and I will be happy to answer them.
 
