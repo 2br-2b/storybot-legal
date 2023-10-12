@@ -28,9 +28,9 @@ I use this data to:
 4. improve the bot (for example, by seeing if certain actions are going unused and can thus be deprioritized);
 5. If a user reports that there is some serious harm being done by the bot (being used to write viruses, commit phishing attacks, etc.), then I will investigate.
 
-In order to see all of the data the bot has stored on you, you can run `/privacy request_my_data`.
+**In order to see all of the data the bot has stored on you**, you can run `/privacy request_my_data`.
 
-In order to delete this data, run `/privacy delete_my_data`. Data may still be stored in a backup, but this will be deleted relatively soon afterward. Some data, such as server bans, cannot be deleted by the affected user. In order to delete all of the data the bot has about a server, simply kick it from the server.
+**In order to delete this data**, run `/privacy delete_my_data`. Data may still be stored in a backup, but this will be deleted relatively soon afterward. Some data, such as server bans, cannot be deleted by the affected user. In order to delete all of the data the bot has about a server, simply kick it from the server.
 
 I access data thru Discord's API. I collect this data locally and store it on a local database. I will retain this data as long as it is needed and will delete it when it is no longer required or when the relevant user requests it.
 
