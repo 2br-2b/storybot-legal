@@ -36,7 +36,7 @@ Here is an example of some of the data my bot stores about each server:
 - If the bot sends a message with a button, it stores the message id along with the server the button is for. It does not store the id of the user;
 - Users and their author statuses (see above).
 
-I collect this data via interactions with the bot. StoryBoot will fetch this data whenever it is needed, but it does not store data that it does not need.
+I collect this data via interactions with the bot. StoryBot will fetch this data whenever it is needed, but it does not store data that it does not need.
 
 I use this data to:
 
