@@ -60,7 +60,7 @@ I am not affiliated with or responsible for any content (including links) posted
 
 ## Aggregated data
 
-StoryBot also collects and stores a aggregated data (for example, how many servers StoryBot is in, how many are active, and how many users are paused at a given time, etc.). The __aggregated, anonymized__ data I collect can be stored and shared for any reason, including:
+StoryBot also collects and stores aggregated data (for example, how many servers StoryBot is in, how many are active, and how many users are paused at a given time, etc.). The __aggregated, anonymized__ data I collect can be stored and shared for any reason, including:
 
 1. improving the bot (for example, by seeing if certain actions are going unused and can thus be deprioritized);
 2. sharing it with friends who are good at crunching numbers (for example, to estimate how soon I'll need a bigger hard drive);
