@@ -54,7 +54,7 @@ I use this data to:
 
 I will store your personal data only as long as I need to and will delete it as soon as it is not necessary.
 
-I will not share your personal data outside of the StoryBot Team. Only members of the StoryBot Team will have access to this data. The only exceptions (see below) are requests from Discord or requirements from lawful authorities. In addition, if you explicitly opt-in to the sharing of personal data, this data might be shared. Finally, if I in good faith believe that there is serious need to, I may disclose this information (for example, if a server member reveals that some people are planning something bad using StoryBot).
+I will not share your personal data outside of the StoryBot Team. Only members of the StoryBot Team will have access to this data. The only exceptions (see below) are requests from Discord or requirements from lawful authorities. In addition, if you explicitly opt-in to the sharing of personal data (like feedback you provide), this data might be shared. Finally, if I in good faith believe that there is serious need to, I may disclose this information (for example, if a server member reveals that some people are planning something bad using StoryBot).
 
 ## Third-party data
 
