@@ -1,5 +1,7 @@
 # StoryBot Privacy Policy v2
 
+Last updated 4/9/2024
+
 ## Definitions
 
 "I", "me", "my", etc. throughout this policy refers to the StoryBot Team.

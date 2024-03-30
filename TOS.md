@@ -1,5 +1,7 @@
 # Terms of Service
 
+Last updated 4/9/2024
+
 These Terms govern your access to and use of the products and services we provide through or for StoryBot (referred to hereafter as "Services").
 
 These Terms also govern users' use of our Services. Please note that Discord has their own terms of service, which can be found here: https://discord.com/terms
