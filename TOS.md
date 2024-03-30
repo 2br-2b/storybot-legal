@@ -1,3 +1,5 @@
+Notice: this is being updated 4/9/2024. Please see https://github.com/2br-2b/storybot-legal/tree/sharing-updates for the updated versions
+
 ## Terms of Service
 
 These Terms govern your access to and use of the products and services we provide through or for StoryBot (referred to hereafter as “Services”).

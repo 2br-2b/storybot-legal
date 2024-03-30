@@ -1,3 +1,5 @@
+Notice: this is being updated 4/9/2024. Please see https://github.com/2br-2b/storybot-legal/tree/sharing-updates for the updated versions
+
 **I will not train any text generation AI models on users' submitted stories without their express, opt-in consent**. I do not have any plans to do anything of this sort, but I'm leaving this in here to clarify my position on the issue.
 
 Here is an example of some of the data my bot stores about users:
