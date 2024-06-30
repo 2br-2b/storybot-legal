@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last updated 4/9/2024
+Last updated 4/9/2024 (links updated 6/30/2024)
 
 These Terms govern your access to and use of the products and services we provide through or for StoryBot (referred to hereafter as "Services").
 
@@ -20,7 +20,7 @@ Using our Services requires a Discord account. You agree that we may collect you
 
 You're solely responsible and liable for all activity under your account. You're also fully responsible for maintaining the security of your account (which includes keeping your password secure). We're not liable for any acts or omissions by you, including any damages of any kind incurred as a result of your acts or omissions. If you get fired because of a story you write about your boss, that's on you.
 
-If you'd like to learn about how we handle the data you provide us, please see our [Privacy Policy](https://2br-2b.github.io/storybot-legal/privacy-policy.html).
+If you'd like to learn about how we handle the data you provide us, please see our [Privacy Policy](https://storybot.app/legal/privacy).
 
 ## 3. Minimum Age Requirements
 
@@ -73,7 +73,7 @@ StoryBot enables you to create fun stories, and we would love for you to use it
 
 StoryBot's basic service is free, and we offer paid plans that add advanced features. **We don't own your content, and you retain all ownership rights you have in the content you post or write on Discord.** However, be responsible in what you publish. In particular, make sure that nothing prohibited (for example, spam, viruses, or serious threats of violence) appears in your stories. In addition, all stories must comply with Discord's Terms of Service.
 
-If you find a story that you believe violates these Terms, please join our support server and let us know. If there is reasonable suspicion of misuse, we may look at the story there and take appropriate action (as determined by us in our sole discretion). See [our privacy policy](https://2br-2b.github.io/storybot-legal/privacy-policy.html) for more details.
+If you find a story that you believe violates these Terms, please join our support server and let us know. If there is reasonable suspicion of misuse, we may look at the story there and take appropriate action (as determined by us in our sole discretion). See [our privacy policy](https://storybot.app/legal/privacy) for more details.
 
 **License.** By uploading or sharing Content, you grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, store, and use the Content solely for the purpose of providing and improving our products and Services.
 
