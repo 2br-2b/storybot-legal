@@ -1,6 +1,6 @@
 # StoryBot Privacy Policy v2
 
-Last updated 4/9/2024
+Last updated 4/9/2024 (links updated 6/30/2024)
 
 ## Definitions
 
@@ -103,6 +103,6 @@ If I update this policy, I will send a message in my public StoryBot server. I w
 
 ## Please contact me!
 
-If you have any questions, you can join [my Discord](https://discord.gg/a28VUkyrxp) and I will be happy to answer them.
+If you have any questions, you can join [my Discord](https://storybot.app/support-server) and I will be happy to answer them.
 
 In order to keep up-to-date with changes in this privacy policy, watch this repository. My current privacy policy will be listed in the releases of this repository.
